@@ -40,6 +40,7 @@ h1 {
 }
 .section_content {
     padding: 30px 15px 10px 15px;
+    text-transform: lowercase;
 }
 /* Simple Responsive Framework. */
 .row {
