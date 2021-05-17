@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-       background-color:  #e6b3ff;
+       background-color: #9B9D9D;
 }
 h1 {
     margin-bottom: 15px;
@@ -17,7 +17,7 @@ h1 {
     background-color: #7a7d7f;
 }
 #box_sushi{
-    background-color:  #e6b3ff;
+    background-color:  #7a7d7f ;
 }
 #chicken_title, #beef_title, #sushi_title{
     border-left:1px solid black;
